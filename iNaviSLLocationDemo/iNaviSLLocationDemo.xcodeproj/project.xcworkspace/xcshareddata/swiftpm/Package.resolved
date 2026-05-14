@@ -1,0 +1,15 @@
+{
+  "originHash" : "99fa89756f7b9ec5dc06f7eb7cb234f965e10a4ced6fa87d149aeae81fa1968e",
+  "pins" : [
+    {
+      "identity" : "inavi-samsunglife-location-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/inavi-systems/iNavi-SamsungLife-Location-SDK",
+      "state" : {
+        "revision" : "4654c6582917f310150286bf6264dbc4eb3a3a1f",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
